@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"strict": true,
+		"suppressImplicitAnyIndexErrors": true,
+		"downlevelIteration": true,
+		"lib": ["dom", "es5", "es2015.core", "es2015.promise", "es2015.iterable"]
+	},
+	"compileOnSave": false,
+	"atom": {
+		"rewriteTsconfig": false
+	},
+	"filesGlob": ["**/*.ts"]
+}
