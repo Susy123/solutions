@@ -1,4 +1,15 @@
-# ts 测试用例
+## 开发
+
+```bash
+
+# 安装依赖
+npm install
+
+# 执行测试
+npm run test
+```
+
+## ts 测试用例
 
 ## 1. 实现一个 Promise.race
 
